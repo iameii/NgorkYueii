@@ -1,0 +1,15 @@
+em {
+    font-style: normal;
+    color: red;
+}
+
+strong {
+    font-weight: normal;
+    color: rgb(215, 250, 226);
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+    color: blueviolet;
+}
